@@ -1,1 +1,6 @@
 /data
+.venv/
+.vincent/
+.sixth/
+__pycache__/
+*.pyc
